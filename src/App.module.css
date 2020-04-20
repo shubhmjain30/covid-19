@@ -1,0 +1,10 @@
+.container {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  font-family: "Lato", sans-serif;
+}
+
+.section {
+  min-height: 77vh;
+}

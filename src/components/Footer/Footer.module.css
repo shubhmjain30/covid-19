@@ -1,0 +1,22 @@
+.container {
+  background-color: #ececec;
+  margin-top: 30px !important;
+  box-shadow: 0 -2px 4px -5px #e4e4e4;
+}
+footer {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+}
+footer a {
+  text-decoration: none !important ;
+  color: #5c5c5c;
+}
+a:hover {
+  color: #009aa6 !important;
+}
+
+.container p,
+a {
+  margin: auto !important;
+}

@@ -1,0 +1,37 @@
+.container {
+  min-height: 90vh;
+}
+
+.row {
+  text-align: center;
+  word-wrap: break-word;
+}
+.col {
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 4px #e4e4e4;
+}
+.col h5 {
+  color: #323232;
+}
+.col p {
+  color: #5c5c5c;
+}
+
+.rowH {
+  color: #009aa6;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.row img {
+  height: 240px;
+  width: auto;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+  .col {
+    margin: 4% !important;
+  }
+}
