@@ -19,7 +19,7 @@ const Prevention = () => {
         <br />
         <Row className={styles.rowH}>
           <Col md={12}>
-            <h3>Because precaution is better than cure.</h3>
+            <h3>Because precautions are better than cure.</h3>
           </Col>
         </Row>
         <br />
