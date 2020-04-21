@@ -21,7 +21,7 @@ class App extends Component {
     const { data, country } = this.state;
     return (
       <div className={styles.container}>
-        <Router>
+        <Router basename="/">
           <NavB />
           <div className={styles.section}>
             <Switch>
